@@ -1,0 +1,11 @@
+.fix{
+    position: fixed;
+    background-color: #ad0101;
+    width: 100%;
+    padding: 20px;
+    bottom: 0;
+}
+
+.text{
+    color: white;
+}
