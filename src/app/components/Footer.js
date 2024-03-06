@@ -5,8 +5,8 @@ export default function Footer(){
         <footer>
             <p>2024 ''. Todos os direitos reservador</p>
             <Image
-                width={100}
-                height={100}
+                width={26}
+                height={26}
                 src={"https://ead.ifms.edu.br/theme/moove/pix/moodle-logo-white.png"}
            />
         </footer>
