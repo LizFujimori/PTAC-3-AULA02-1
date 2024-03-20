@@ -1,5 +1,5 @@
 export default async function Home(){
-  const resposta = await fetch("http://localhost:3000/api",{
+  const resposta = await fetch("http://back-end-ifms.vercel.app/campi",{
       next: {revalidate: 1}
  })
 
